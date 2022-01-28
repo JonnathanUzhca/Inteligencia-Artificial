@@ -1,0 +1,13 @@
+P3 
+# Los comentarios van precedidos del signo numeral (magick number)
+
+# Columnas y filas de la imagen
+5 4
+
+# Se debe indicar cuántos niveles de gris tiene la imagen
+15
+
+11 11 1 11 11 1 1 1 15 11 11 1 11 11 1
+11 11 1 1 1 15 11 11 1 1 1 15 11 11 1
+1 1 15 1 1 15 1 1 15 1 1 15 1 1 15
+1 1 15 11 11 1 11 11 1 11 11 1 1 1 15
